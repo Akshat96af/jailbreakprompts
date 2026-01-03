@@ -63,5 +63,11 @@ Expected Output:
 
 -----------------------------------------------------------------------------------------|
 
+[!IMPORTANT] If the AI says "I cannot fulfill this request" or refuses to cooperate, simply open a NEW CHAT and repeat these steps again. Eventually, the jailbreak will bypass the filters.
+
+-----------------------------------------------------------------------------------------|
+
+
+
 ✅ Success
 Your AI is successfully jailbroken! You can now use the custom commands /classic or /jailbroken to toggle between responses.
