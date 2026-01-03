@@ -71,3 +71,5 @@ Expected Output:
 
 ✅ Success
 Your AI is successfully jailbroken! You can now use the custom commands /classic or /jailbroken to toggle between responses.
+
+![Alt Text](Assets/prompt3.png)
